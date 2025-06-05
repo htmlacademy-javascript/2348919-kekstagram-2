@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм»
 
 * Студент: [Анастасия Болдина](https://up.htmlacademy.ru/javascript-individual/2/user/2348919).
-* Наставник: [Павел Ившин](https://htmlacademy.ru/profile/id818775).
+* Наставник: []().
 
 ---
 
