@@ -1,5 +1,5 @@
-const result = generate ();
-console.log (JSON.stringify(result, undefined, ' '));
+const result = generate();
+console.log(JSON.stringify(result, undefined, ' '));
 
 
 function generate() {
